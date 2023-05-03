@@ -306,8 +306,8 @@ footer {
 
 
 
-
-@media (max-width: 320px){
+@media (max-width: 320px) {
+	
 	.logo {
 		display: flex;
 		align-items: center;
